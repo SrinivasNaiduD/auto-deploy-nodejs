@@ -3,3 +3,5 @@ docker run -it --rm -p 8080:8080 api => to run the container from the image "api
 
 docker compose up -d => to start the services defined in the docker-compose.yml file in detached mode (running in the background).
 docker compose down => to stop and remove the containers, networks, and volumes defined in the docker-compose.yml file.
+D:\nodejs_cicd\id_rsa       🔐 private key
+D:\nodejs_cicd\id_rsa.pub   🔓 public key
